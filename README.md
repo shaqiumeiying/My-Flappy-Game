@@ -1,6 +1,7 @@
 # Flappy Diane
 ### A flappy-bird-like game
 This is a mini game about collecting various dessert to unlock different outfit and levels. Higher score for more rewards.
+
 ![](FlappyD_thumbnail.png "bg")
 
 ## Tool used
